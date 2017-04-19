@@ -1,0 +1,36 @@
+body{
+  background-color: #8cb27c;
+}
+.canchita{
+  border: 2px solid #fff;
+  width: auto;
+  height: 610px;
+  margin: 20px;
+}
+.ArcoIzquierda{
+  width: 120px;
+  height: 250px;
+  border: 1px solid #fff;
+  top: 30%;
+  position: absolute;
+  display: inline-block;
+  left: 29px;
+}
+.ArcoDerecha{
+  width: 120px;
+  height: 250px;
+  border: 1px solid #fff;
+  position: absolute;
+  top: 30%;
+  display: inline-block;
+  right: 29px;
+}
+.Medio{
+  width: 120px;
+  height: 120px;
+  top: 40%;
+  border: 1px solid #fff;
+  border-radius: 100%;
+  position: absolute;
+  left: 45%;
+}
