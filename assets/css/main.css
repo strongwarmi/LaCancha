@@ -34,3 +34,26 @@ body{
   position: absolute;
   left: 45%;
 }
+.Balon1,
+.Balon2,
+.Balon3{
+  background: #FFF;
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+}
+.Balon1{
+  position: absolute;
+  left: 140px;
+  top: 30%;
+}
+.Balon2{
+  position: absolute;
+  left: 50%;
+  top: 20%;
+}
+.Balon3{
+  position: absolute;
+  right: 150px;
+  bottom:34%;
+}
